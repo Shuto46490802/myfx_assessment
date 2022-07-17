@@ -76,7 +76,7 @@ const Charts = () => {
                 backgroundColor: pieData.backgroundColor,
             }
         ]
-    }
+    };
 
     return (
         <div className="container p-3 d-flex flex-column">
